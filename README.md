@@ -1,3 +1,3 @@
 # FloripaTec
 
-##Comoroda o projeto
+##Como rodar o projeto
